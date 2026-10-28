@@ -1,6 +1,6 @@
 # Hi, I'm László Dezső 👋
 
-🎓 **MSc student in Cybersecurity Engineering** at the Technical University of Cluj-Napoca (UTCN) · BSc in Systems Engineering (2026)
+🎓 **MSc student in Cybersecurity Engineering** at the Technical University of Cluj-Napoca (UTCN) · BSc in Automation Engineering (2026)
 🔐 Focused on **secure software development**, applied cryptography and reverse engineering
 💼 Former **Software Developer Intern** at COMBRIDGE S.R.L. (ServiceNow · Python · Django)
 🌍 Multilingual: Hungarian · English (C1) · Romanian (B2)
